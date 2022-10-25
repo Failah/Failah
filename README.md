@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UNITY, while keeping myself trained with JavaScript and its Frameworks!
       I'm developing Neon Snake, which is my modern version of the good old Snake game! You can check my repo and try it yourself, but keep in mind that's in Alpha right        now!
 - 💞️ // this is an empty space, for now :P
-- 📫 You can contact my here for now, but in some days i will release here all my social links!
+- 📫 You can contact me here for now, but in some days i will release here all my social links!
 
 <!---
 Failah/Failah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
